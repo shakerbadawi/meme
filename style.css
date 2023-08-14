@@ -1,0 +1,14 @@
+*{
+background-color: black;
+}
+h1{
+    font-family: Regular Libre Baskerville;
+    
+}
+#img{
+    border: 5px white solid ;
+}
+#id{
+    color: white;
+    text-align: center;
+}
